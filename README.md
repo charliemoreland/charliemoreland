@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [LSAMP INSPIRE Program Web Application](https://sdmay25-24.sd.ece.iastate.edu/)
 
-- 🌱 I’m currently learning **Amazon Web Service, Google Cloud Platform, React, System Design**
+- 🌱 I’m currently learning **Amazon Web Services, Google Cloud Platform, React, System Design**
 
 - 💬 Ask me about **NodeJS, DevOps, Cloud Transformation, Backend Development, REST API, Software Architecture**
 
