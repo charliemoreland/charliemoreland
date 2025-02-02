@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charlie Moreland</h1>
-<h3 align="center">I am an aspiring IT Consultant passionate about helping Businesses migrate to Cloud Platforms and the potential applications of Machine Learning into Business Operations. With my BS in Software Engineering and MBA I want to help Businesses create Technical Solutions rooted in their Business Operations.</h3>
+<h3 align="center">I am an aspiring IT Consultant passionate about helping Businesses migrate to Cloud Platforms and the potential applications of Machine Learning into Business Operations. With my BS in Software Engineering and MBA I want to help Businesses create Technical Solutions rooted in their Business Operations. I have Industry Experience in Full-Stack Web Development, Agile Project Management, and Software Testing. </h3>
 
 - 🔭 I’m currently working on [LSAMP INSPIRE Program Web Application](https://sdmay25-24.sd.ece.iastate.edu/)
 
